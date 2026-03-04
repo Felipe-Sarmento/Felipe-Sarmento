@@ -1,6 +1,6 @@
 ### 😉 Hey there!
 
-💻 I'm Felipe Sarmento, a Brazilian full-stack developer and undergrad in Software Engineering.
+💻 I'm Felipe Sarmento, a Brazilian full-stack SWE.
 
 
 🎯 I enjoy creating stuff and collaborating with others.
